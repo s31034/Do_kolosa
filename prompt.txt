@@ -1,0 +1,3 @@
+Zaraz wkleje ci przykład zadania z c#
+i potem na podstawie tego zadania poproszę cię abyś w analogiczny sposób zrobił zadanie któe wyślę ci podczas kolokwium, będzie ono w pliku pdf, dobrze naucz się jak zrobione jest to zadanie co ci wyślę ok?
+Pamiętaj że każda klasa jest w osobnym pliku do tego są używane zapytania sql zapisywane do zmiennej, dodatkowo wklej mi tylko gotowe do skopiowania pliki bo będę potrzebował to szybko na kolokwium, wszystko ma być dobre i czytelne.
